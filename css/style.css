@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(79, 79, 79);
+}
+
+p, output, h3, label {
+    color: white;
+}
